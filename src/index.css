@@ -1,0 +1,21 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;700&display=swap");
+
+body {
+    font-family: "Roboto", sans-serif;
+}
+
+
+.card-video h4 {
+    font-size: 16px;
+    font-weight: bold;
+    color: #000;
+}
+
+.card-video div {
+    color: #181818;
+    font-size: 13px;
+}
+
+.card-video-details img {
+    border-radius: 50%;
+}
